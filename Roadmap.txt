@@ -1,0 +1,56 @@
+Phase 1: HTML Basics
+- HTML কি
+- HTML structure
+- Tags
+- Elements
+- Attributes
+- Headings
+- Paragraph
+- Line break
+- Comments
+
+Phase 2: Text & Formatting
+- Bold
+- Italic
+- Underline
+- Lists
+- Tables
+- Links
+- Images
+
+Phase 3: Forms
+- Form
+- Input types
+- Label
+- Button
+- Checkbox
+- Radio
+- Select option
+- Validation
+
+Phase 4: Semantic HTML
+- header
+- nav
+- main
+- section
+- article
+- footer
+
+Phase 5: Multimedia
+- audio
+- video
+- iframe
+- youtube embed
+
+Phase 6: Advanced HTML
+- SEO basics
+- Meta tags
+- Accessibility
+- Responsive basics
+
+Phase 7: Projects
+- Portfolio Website
+- Login Form
+- Registration Form
+- Simple Blog Page
+- Complete Multipage Website
